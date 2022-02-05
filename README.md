@@ -1,4 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで更新
-main上で更新(2k回目)
+re a-se-practice上で更新(2回目)
+
