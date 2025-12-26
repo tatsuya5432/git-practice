@@ -1,2 +1,0 @@
-mainブランチで更新
-pullじのrebase
